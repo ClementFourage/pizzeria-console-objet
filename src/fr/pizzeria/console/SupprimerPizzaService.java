@@ -3,7 +3,6 @@ package fr.pizzeria.console;
 import java.util.Scanner;
 
 import fr.pizzeria.dao.PizzaMemDao;
-import fr.pizzeria.model.Pizza;
 
 public class SupprimerPizzaService extends MenuService {
 	
