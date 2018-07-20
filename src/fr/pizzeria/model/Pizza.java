@@ -12,7 +12,7 @@ public class Pizza {
 		libelle = nvLibelle;
 		prix = nvPrix;
 	}
-	
+
 	public Pizza(int nvId, String nvCode, String nvLibelle, double nvPrix) {
 		id = nvId;
 		code = nvCode;
